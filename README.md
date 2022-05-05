@@ -1,4 +1,17 @@
 ### Hi there 👋
+I am Hadi Ahmadi, a web designer and full-stack web developer.
+
+- 🔭 I like working with Svelte and Typescript
+- ⚡ Fun fact: I hate javascript as much as I like it 🤔
+- 📫 How to reach me: 
+  - twitter: [@TheHadiAhmadi](https://twitter.com/TheHadiAhmadi)
+  - linkedin: [@TheHadiAhmadi](https://linkedin.com/in/TheHadiAhmadi)
+  - email: TheHadiAhmadi@gmail.com
+
+# stats
+![Hadi's Github stats](https://github-readme-stats.vercel.app/api?username=TheHadiAhmadi&count_private=true?theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHadiAhmadi&langs_count=8&layout=compact)](https://github.com/Hadi374/Hadi374)
+
 
 <!--
 **TheHadiAhmadi/TheHadiAhmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
