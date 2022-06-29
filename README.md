@@ -2,7 +2,6 @@
 I am Hadi Ahmadi, a web designer and full-stack web developer.
 
 - 🔭 I like working with Svelte and Typescript
-- ⚡ Fun fact: I hate javascript as much as I like it 🤔
 - 📫 How to reach me: 
   - twitter: [@TheHadiAhmadi](https://twitter.com/TheHadiAhmadi)
   - linkedin: [@TheHadiAhmadi](https://linkedin.com/in/TheHadiAhmadi)
