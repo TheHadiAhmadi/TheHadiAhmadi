@@ -1,11 +1,12 @@
 ### Hi there 👋
-I am Hadi Ahmadi, a web designer and full-stack web developer.
+I am Hadi Ahmadi, full-stack web developer.
 
-- 🔭 I like working with Svelte and Typescript
+- 🔭 I have some experience with Svelte and Typescript
 - 📫 How to reach me: 
   - twitter: [@TheHadiAhmadi](https://twitter.com/TheHadiAhmadi)
   - linkedin: [@TheHadiAhmadi](https://linkedin.com/in/TheHadiAhmadi)
   - email: TheHadiAhmadi@gmail.com
+- ✨ i’m currently working on [UBuilder CMS](https://github.com/ubuilder/cms) and [UBuilder UI](https://ubuilder.github.io/ui)
 
 # stats
 ![Hadi's Github stats](https://github-readme-stats.vercel.app/api?username=TheHadiAhmadi&count_private=true?theme=onedark)
