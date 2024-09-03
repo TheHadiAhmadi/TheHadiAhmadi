@@ -6,7 +6,7 @@ I am Hadi Ahmadi, full-stack web developer.
   - twitter: [@TheHadiAhmadi](https://twitter.com/TheHadiAhmadi)
   - linkedin: [@TheHadiAhmadi](https://linkedin.com/in/TheHadiAhmadi)
   - email: TheHadiAhmadi@gmail.com
-- ✨ i’m currently working on [Fluent CMS](https://github.com/fluentcms/fluentcms) and [Svelite CMS](https://github.com/svelite/svelite)
+- ✨ i’m currently working on [Fluent CMS](https://github.com/fluentcms/fluentcms) and [Tail CMS](https://github.com/thehadiahmadi/site-builder)
 
 # stats
 ![Hadi's Github stats](https://github-readme-stats.vercel.app/api?username=TheHadiAhmadi&count_private=true?theme=onedark)
