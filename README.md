@@ -36,6 +36,7 @@ I am Hadi Ahmadi, full-stack web developer.
   - email: TheHadiAhmadi@gmail.com
 
 
+![](https://komarev.com/ghpvc/?username=TheHadiAhmadi)
 <img src="https://raw.githubusercontent.com/TheHadiAhmadi/TheHadiAhmadi/main/bottom_header.svg" style="position: absolute; bottom: 0;" />
 <!--
 **TheHadiAhmadi/TheHadiAhmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
