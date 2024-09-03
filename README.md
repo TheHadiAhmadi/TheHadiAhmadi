@@ -1,4 +1,4 @@
-m### Hi there 👋
+## Hi there 👋
 I am Hadi Ahmadi, full-stack web developer.
 
 - 🔭 I have some experience with Svelte and Typescript
