@@ -8,8 +8,8 @@ I am Hadi Ahmadi, full-stack web developer.
   - email: TheHadiAhmadi@gmail.com
 - ✨ i’m currently working on [Fluent CMS](https://github.com/fluentcms/fluentcms) and [Tail CMS](https://github.com/thehadiahmadi/site-builder)
 
-# stats
-![Hadi's Github stats](https://github-readme-stats.vercel.app/api?username=TheHadiAhmadi&count_private=true?theme=onedark)
+# Stats
+![Hadi's Github stats](https://github-readme-stats.vercel.app/api?username=TheHadiAhmadi&count_private=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHadiAhmadi&langs_count=8&layout=compact)](https://github.com/Hadi374/Hadi374)
 
 
