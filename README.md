@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/TheHadiAhmadi/TheHadiAhmadi/main/header_top.svg" />
             
-## Hi there 👋
+# Hi there 👋
 I am Hadi Ahmadi, full-stack web developer.
 
-- 🔭 I have some experience with Svelte and Typescript
+- 🔭 I have some experience with Dotnet, Svelte and Typescript
 - ✨ i’m currently working on [Fluent CMS](https://github.com/fluentcms/fluentcms) and [Tail CMS](https://github.com/thehadiahmadi/site-builder)
 
-# Stats
+## Stats
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=TheHadiAhmadi&show_icons=true&theme=dark"
@@ -39,6 +39,7 @@ I am Hadi Ahmadi, full-stack web developer.
 
 
 ![](https://komarev.com/ghpvc/?username=TheHadiAhmadi)
+
 <img src="https://raw.githubusercontent.com/TheHadiAhmadi/TheHadiAhmadi/main/bottom_header.svg" style="position: absolute; bottom: 0;" />
 <!--
 **TheHadiAhmadi/TheHadiAhmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
