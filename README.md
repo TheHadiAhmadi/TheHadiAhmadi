@@ -3,8 +3,8 @@
 # Hi there 👋
 I am Hadi Ahmadi, full-stack web developer.
 
-- 🔭 I have some experience with Dotnet, Svelte and Typescript
-- ✨ i’m currently working on [Fluent CMS](https://github.com/fluentcms/fluentcms)
+- 🔭 I have experience working with Dotnet, Svelte and Typescript
+- ✨ i’m currently working on [FluentCMS](https://github.com/fluentcms/FluentCMS)
 ## Stats
 <picture>
   <source
@@ -21,7 +21,7 @@ I am Hadi Ahmadi, full-stack web developer.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHadiAhmadi&langs_count=8&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHadiAhmadi&langs_count=8&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
