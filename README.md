@@ -4,7 +4,8 @@
 I am Hadi Ahmadi, full-stack web developer.
 
 - 🔭 I have experience working with Dotnet, Svelte and Typescript
-- ✨ i’m currently working on [FluentCMS](https://github.com/fluentcms/FluentCMS)
+- ✨ I’m currently working on [FluentCMS](https://github.com/fluentcms/FluentCMS)
+-   Take a look at our team portfolio at [Veltify](https://veltify.org)
 ## Stats
 <picture>
   <source
